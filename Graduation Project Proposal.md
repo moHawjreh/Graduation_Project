@@ -6,6 +6,7 @@
 
 Design a controller for IOT by separating the pin unit from the computing unit.
 
+![[autodraw 12_13_2023 1.png]]
 
 ### Advantages: 
 
@@ -16,4 +17,5 @@ Design a controller for IOT by separating the pin unit from the computing unit.
 
 
 
+### PINS FUNCTIONS : 
 

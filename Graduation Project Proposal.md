@@ -14,3 +14,6 @@ Design a controller for IOT by separating the pin unit from the computing unit.
 3. **Cost-effectiveness:** Separating the units could potentially reduce the cost of manufacturing and assembly. This can make your product more competitive in the market.
 4. **Modular design:** This modularity allows for easier repair and maintenance. If one unit fails, you can replace it without having to replace the entire system.
 
+
+
+

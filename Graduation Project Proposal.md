@@ -19,11 +19,17 @@ Design a controller for IOT by separating the pin unit from the computing unit.
 
 ### PINS FUNCTIONS : 
 
+1- POWER 
+2- Digital  \\ Analog 
+3- Digital \\ Analog 
+4- Digital \\ PWM
+5- Digital \\  
+
 
 
 
 ### Connection 
-
+We will use the WIFI module to implement the prototype.
 
 ### Design & Simulation 
 

@@ -19,3 +19,16 @@ Design a controller for IOT by separating the pin unit from the computing unit.
 
 ### PINS FUNCTIONS : 
 
+
+
+
+### Connection 
+
+
+### Design & Simulation 
+
+
+
+### Prototype 
+
+We decided to implement the prototype as a PCB due to the high cost of manufacturing the IC sample.
